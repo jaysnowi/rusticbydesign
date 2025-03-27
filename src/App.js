@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">clear
         <img src={logo} className="App-logo" alt="logo" />
-       hello world
+       hello world...
       </header>
     </div>
   );
